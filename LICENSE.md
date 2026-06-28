@@ -1,4 +1,4 @@
-# 
+# 高级 JetBrains IntelliJ IDEA 扩展 Mac OS版 | 智能 JetBrains IntelliJ IDEA 扩展 PC Windows版。集成 缩略图 和 代码补全，跨平台性能最大化。
 
 
 
